@@ -116,7 +116,7 @@ export default function LandingPage() {
         },
         {
           title: "Private Dining & Events",          description: "Host your special occasions in our elegant private dining rooms, offering bespoke menus and personalized service.",          media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/plate-noodles-chili-peppers-tomatoes-marble-background_114579-55719.jpg",            imageAlt: "Elegant private dining room"},
+            imageSrc: "http://img.b2bpic.net/free-photo/plate-noodles-chili-peppers-tomatoes-marble-background_114579-55719.jpg?_wi=1",            imageAlt: "Elegant private dining room"},
           items: [
             {
               icon: Users,
@@ -144,7 +144,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       products={[
         {
-          id: "1",          name: "Truffle Mushroom Risotto",          price: "$32.00",          imageSrc: "http://img.b2bpic.net/free-photo/plate-noodles-chili-peppers-tomatoes-marble-background_114579-55719.jpg",          imageAlt: "Creamy truffle mushroom risotto"},
+          id: "1",          name: "Truffle Mushroom Risotto",          price: "$32.00",          imageSrc: "http://img.b2bpic.net/free-photo/plate-noodles-chili-peppers-tomatoes-marble-background_114579-55719.jpg?_wi=2",          imageAlt: "Creamy truffle mushroom risotto"},
         {
           id: "2",          name: "Pan-Seared Duck Breast",          price: "$45.00",          imageSrc: "http://img.b2bpic.net/free-photo/beef-steak-served-with-yellow-mashed-puree-vegetables_140725-1492.jpg",          imageAlt: "Pan-seared duck breast with cherry sauce"},
         {
